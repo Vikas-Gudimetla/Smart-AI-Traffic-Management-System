@@ -9,9 +9,3 @@ The plots compare the learned traffic-signal controller against a fixed-signal b
 ## Computer Vision
 
 The vehicle-tracking images demonstrate YOLO-based detection, tracking IDs, bounding boxes and vehicle counting.
-
-# Demo Videos
-
-This folder contains demonstration videos of the Smart AI Traffic Management System.
-
-The videos showcase YOLO-based vehicle detection, tracking and traffic monitoring.

@@ -1,0 +1,7 @@
+flask
+flask-socketio
+opencv-python
+ultralytics
+numpy
+matplotlib
+traci

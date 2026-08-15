@@ -179,9 +179,9 @@ The repository contains the following experimental outputs:
 
 ### Demo Video
 
-A demonstration video of the traffic monitoring system is available in the repository.
+The complete demonstration video is available here:
 
-Video: videos/traffic_management_demo.mp4
+[Traffic Management Demo](videos/traffic_management_demo.mp4)
 
 The demo showcases:
 

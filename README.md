@@ -370,8 +370,3 @@ The original SIH solution included the proposed technical approach, feasibility 
 ## ⚠️ Note
 
 This repository represents the implementation and experimental work currently available from the project.
-
-Performance figures from the original SIH proposal should not be interpreted as measured results unless they are supported by corresponding experiments and outputs included in this repository.
-
-
-**Important:** Copy only the content inside the box, starting from `# Smart AI Traffic Management System` and ending with the final sentence. Don't copy the outer ```markdown and ``` lines into GitHub.
